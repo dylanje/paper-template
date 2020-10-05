@@ -1,0 +1,6 @@
+name: FirstPlugin
+version: 1.0
+main: com.dylanensor.firstplugin.FirstPlugin
+api: 1.16.3
+description: Test/Template plugin
+author: Dylan Ensor
